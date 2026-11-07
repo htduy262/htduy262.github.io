@@ -1,2 +1,1 @@
-# htduy262.github.io
-Personal developer page and ads.txt host
+google.com, pub-8801439798856966, DIRECT, f08c47fec0942fa0
