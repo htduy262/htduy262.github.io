@@ -1,1 +1,1 @@
-google.com, pub-8801439798856966, DIRECT, f08c47fec0942fa0
+Personal developer page and ads.txt host
